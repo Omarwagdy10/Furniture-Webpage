@@ -1,0 +1,23 @@
+
+.first-Nav{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.Navbar-data{
+    display: flex ;
+    justify-content: space-evenly ;
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.Navbar-data .nav-link{
+    font-size: 18px;
+    color: black;
+    font-weight: 500;
+    transition: all .5s ease;
+}
+.Navbar-data .nav-link:hover{
+    color: #FE324D;
+}

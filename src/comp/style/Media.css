@@ -1,0 +1,1029 @@
+@media (width<1100px) {
+  /* =========== Log in========= */
+
+  .Inputs {
+    border: solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70% !important;
+    padding: 30px 0px;
+    border: none;
+    background-color: white;
+  }
+
+  /* =============Navbar-ls========= */
+
+  .Navbar-ls {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5px 0px;
+  }
+  /* =============Navbar-rs========= */
+
+  .Navbar-rs {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  /* ======Navbar2======== */
+  /* ======Navbar2======== */
+  .Navbar2 {
+    width: 98%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* gap: 70px; */
+  }
+
+  /* ===========Navbar2-ls========= */
+
+  .Navbar2-ls {
+    width: 15%;
+  }
+
+  /* ============Navbar2-center========= */
+  /* ============Navbar2-center========= */
+  .Navbar2-center {
+    width: 100%;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px ;
+
+    
+
+
+
+  }
+  
+/* Navbar2-data p */
+
+.Navbar2-data p {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px !important ;
+
+
+}
+
+  /* .Navbar2-ls img{ */
+    .Navbar2-ls img {
+      width: 100% !important;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+  
+/* ==================WhatWeDo============ */
+.WhatWeDo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+}
+
+/* Free-Delivery */
+.Free-Delivery{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px gray;
+  padding: 10px;
+  width: 33% !important;
+}
+/* Free-Delivery-Icon */
+.Free-Delivery-Icon{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Free-Delivery-Icon icon*/
+.Free-Delivery-Icon .iconn {
+  font-size: 40px;
+  color: black;
+
+}
+
+/* Free-data */
+.Free-data{
+  width: 100%;
+}
+/* .Free-data h2 */
+.Free-data h2{
+  font-size: 20px;
+  width: 100%;
+}
+/* .Free-data h2 */
+.Free-data p{
+  font-size: 12px;
+  width: 100%;
+  color: rgb(152, 149, 149);
+}
+
+
+/* ==============OwlCoursel=============== */
+.Owl-container{
+  border: solid 1px gray;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: 80% !important;
+
+}
+
+/* .card-icon .circle */
+.card-icon .circle{
+  width: 30px ;
+  height: 30px;
+
+  
+}
+/*  .card-icon .shuffle,.user,.heart*/
+.card-icon .shuffle,.user,.heart {
+  font-size: 15px;
+;
+}
+/*.Owl-data h4  */
+.Owl-data h4{
+  font-size: 14px !important;
+  font-weight: 700;
+  padding: 7px;
+}
+/*  .Owl-data .Price h6,h5*/
+.Owl-data .Price h6,h5{
+    font-size: 13px !important;
+    font-weight: 600;
+}
+
+/*.Owl-button button  */
+.Owl-button button{
+  padding: 4px 10px  !important;
+  border-radius: 18px;
+  border: none;
+  outline: none;
+  transition: all .5s ease;
+  
+  
+}
+
+/* =========================.New-Collection=========== */
+
+/* .New-ls-data,
+.New-rs-data .p4*/
+.New-ls-data,
+.New-rs-data .p4 {
+  font-size: 17px !important;
+  font-weight: 500;
+}
+
+/* New-ls-data h4 */
+.New-Collection h4 {
+  font-size: 23px !important;
+  font-weight: 600;
+  color: #292b2c;
+}
+
+
+
+
+
+}
+
+@media (width<800px) {
+  /* =========== Log in========= */
+
+  .Inputs {
+    border: solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80% !important;
+    padding: 30px 0px;
+    border: none;
+    background-color: white;
+  }
+
+      /* inputsP */
+
+      .inputsP{
+        color: #687188;
+        width: 100% !important;
+        margin: auto;
+    }
+
+  /* =========== Navbar========= */
+  .Navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0px;
+    gap: 5px;
+  }
+
+  /* =============Navbar-ls========= */
+
+  .Navbar-ls {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5px 0px;
+  }
+
+  /* .Navbar2-ls img{ */
+  .Navbar2-ls img {
+    width: 80% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* =============Navbar-rs========= */
+
+  .Navbar-rs {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  /* ======Navbar2======== */
+  .Navbar2 {
+    width: 98%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* gap: 70px; */
+  }
+
+  /* ===========Navbar2-ls========= */
+
+  .Navbar2-ls {
+    width: 20%;
+  }
+
+
+  /* ============Navbar2-center========= */
+  /* ============Navbar2-center========= */
+  .Navbar2-center {
+    width: 100%;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 7px ;
+
+    
+
+
+
+  }
+  
+/* Navbar2-data p */
+
+.Navbar2-data p {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10px !important ;
+}
+
+
+
+  /* ============Carousel=========== */
+
+  .Carousele {
+    width: 95%;
+    height: 100%;
+    position: relative;
+    margin: auto;
+    
+  }
+  /* .Carousel-item img */
+  .Carousel-item img {
+    width: 100%;
+    height: 100%;
+  }
+  /* .Carousel-Caption1 */
+  .Carousel-Caption1 {
+    position: absolute;
+  }
+
+  /* Carousel-Caption1 h3 */
+
+  .Carousel-Caption1 h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+  }
+
+  /* .Carousel-Caption1 p */
+  .Carousel-Caption1 p {
+    font-size: 12px;
+    font-weight: 700;
+    color: black;
+    width: 100%;
+    width: 55%;
+  }
+
+  /* .Carousel-Caption1 button */
+  .Carousel-Caption1 button {
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: solid 1px beige;
+    outline: none;
+    cursor: pointer;
+    margin: 4px 0px;
+    background-color: #cec6bf;
+  }
+
+  /* .slideData button span */
+  .Carousel-Caption1 button span {
+    z-index: 3;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* ============products==== */
+  /* btns */
+  
+.btn1{
+  position: relative;
+  overflow: hidden;
+  transition: all .7s ease ;
+  border: none !important;
+
+}
+.btn1:hover{
+  background-color:  green !important;
+  outline: none !important;
+}
+.btn1:hover .download{
+  background-color:  green !important;
+  top: 0;
+  transition: all .7s ease ;
+
+}
+
+.download{
+  position: absolute;
+  right: 50%;
+  font-size: 30px;
+  top: -50px;
+  transform: translateX(50%);
+  opacity: 50%;
+  
+}
+
+/* ///////////////// */
+/*=============== producrs =============== */
+
+.btn1{
+  position: relative;
+  overflow: hidden;
+  transition: all .7s ease ;
+  border: none !important;
+
+}
+.btn1:hover{
+  background-color:  green !important;
+  outline: none !important;
+}
+.btn1:hover .download{
+  background-color:  green !important;
+  top: 0;
+  transition: all .7s ease ;
+
+}
+
+.download{
+  position: absolute;
+  right: 50%;
+  font-size: 30px;
+  top: -50px;
+  transform: translateX(50%);
+  opacity: 50%;
+  
+}
+
+/* ///////////////// */
+
+.btn2{
+  position: relative;
+  overflow: hidden;
+  transition: all .7s ease ;
+  border: none !important;
+
+  
+}
+.btn2:hover{
+  background-color:  rgb(53, 2, 2) !important;
+  outline: none !important;
+
+}
+.btn2:hover .removee{
+  background-color:  rgb(53, 2, 2) !important;
+  top: 0;
+  transition: all .7s ease ;
+
+}
+
+.removee{
+  position: absolute;
+  right: 50%;
+  font-size: 30px;
+  top: -50px;
+  transform: translateX(50%);
+  opacity: 50%;
+  
+}
+
+
+/* ==================WhatWeDo============ */
+  .WhatWeDo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+/* Free-Delivery */
+.Free-Delivery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px gray;
+    padding: 10px;
+    width: 48% !important;
+}
+/* Free-Delivery-Icon */
+.Free-Delivery-Icon{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Free-Delivery-Icon icon*/
+.Free-Delivery-Icon .iconn {
+    font-size: 40px;
+    color: black;
+
+}
+
+/* Free-data */
+.Free-data{
+    width: 100%;
+}
+/* .Free-data h2 */
+.Free-data h2{
+    font-size: 20px;
+    width: 100%;
+}
+/* .Free-data h2 */
+.Free-data p{
+    font-size: 12px;
+    width: 100%;
+    color: rgb(152, 149, 149);
+}
+
+
+
+/* ==============OwlCoursel=============== */
+.Owl-container{
+  border: solid 1px gray;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: 70% !important;
+
+}
+
+
+/* =========================.New-Collection=========== */
+.New-Collection{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .New-ls */
+.New-ls{
+  width: 100% !important;
+}
+
+
+
+
+/* .New-rs */
+.New-rs{
+  width: 100% !important ;
+}
+
+/* =================OwlCoursel2=============== */
+
+
+/* cont1 */
+
+.cont1{
+  display:none !important;
+}
+/* cont2 */
+
+.cont2{
+  display: block !important; ;
+}
+/* cont3 */
+
+.cont3{
+  display:none  !important;
+}
+
+/* =======================Footer============== */
+/*========= Footer-data====== */
+.Footer-data{
+  margin: auto;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap:30px ;
+}
+
+/* Footer-data-1 */
+.Footer-data-1{
+  width:100%  !important;
+  text-align:center !important;
+  gap: 10px ;
+}
+
+
+/* social-media */
+.social-media{
+  display: flex;
+  justify-content: center !important;
+  align-items: center;
+
+}
+/* Footer-data-2 */
+.Footer-data-2{
+  width:50% !important;
+  text-align:center !important;
+  gap: 10px ;
+
+
+}
+/* Footer-data-3 */
+.Footer-data-3{
+  width:50% !important;
+  text-align:center !important; 
+  gap: 10px ;
+
+
+}
+/* Footer-data-4 */
+.Footer-data-4{
+  width:70% !important;
+  text-align:start;
+  gap: 10px ;
+
+
+}
+
+
+
+
+
+}
+
+
+
+
+@media (width<580px) {
+    /* =========== Log in========= */
+
+    .Inputs {
+      border: solid;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90% !important;
+      padding: 30px 0px;
+      border: none;
+      background-color: white;
+    }
+    /* inputsP */
+
+    .inputsP{
+      color: #687188;
+      width: 100% !important;
+      margin: auto;
+  }
+  /* =========== Navbar========= */
+
+  .Navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0px;
+    gap: 5px;
+  }
+  /* =============Navbar-ls========= */
+
+  .Navbar-ls {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5px 0px;
+  }
+
+  /* .Navbar2-ls img{ */
+  .Navbar2-ls img {
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* =============Navbar-rs========= */
+
+  .Navbar-rs {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  /* ======Navbar2======== */
+  .Navbar2 {
+    width: 99%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+  }
+
+  /* ===========Navbar2-ls========= */
+
+  .Navbar2-ls {
+    width: 15%;
+    /* margin: 0px 5px ; */
+  }
+
+  /* ============Navbar2-center========= */
+  .Navbar2-center {
+    width: 100%;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px ;
+
+
+    
+    
+  }
+  /* Navbar2-data */
+  .Navbar2-data p{
+    font-size: 15px !important;
+  }
+
+
+
+  /* ============Carousel=========== */
+
+  /* ============Carousel=========== */
+
+  .Carousele {
+    width:100%;
+    height: 200px;
+    position: relative;
+    object-fit: contain;
+  }
+  /* .Carousel-item img */
+  .Carousel-item img {
+    width: 100%;
+    height: 200px;
+  }
+  /* .Carousel-Caption1 */
+  .Carousel-Caption1 {
+    width: 100%;
+    position: absolute;
+    left: 20px;
+    transform: translate(0,-50%);    
+
+  }
+
+  /* Carousel-Caption1 h3 */
+
+  .Carousel-Caption1 h3 {
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+  }
+
+  /* .Carousel-Caption1 p */
+  .Carousel-Caption1 p {
+    font-size: 12px;
+    font-weight: 700;
+    color: black;
+    width: 50%;
+  }
+
+  /* .Carousel-Caption1 button */
+  .Carousel-Caption1 button {
+    border-radius: 20px;
+    border: solid 1px beige;
+    outline: none;
+    cursor: pointer;
+    /* margin: 7px 0px; */
+    background-color: #cec6bf;
+    
+  }
+
+  /* .slideData button span */
+  .Carousel-Caption1 button span {
+    z-index: 3;
+    font-size: 9px;
+    font-weight: 600;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  
+/* ==================WhatWeDo============ */
+.WhatWeDo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+}
+
+/* Free-Delivery */
+.Free-Delivery{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px gray;
+  padding: 10px;
+  width: 50% !important;
+}
+/* Free-Delivery-Icon */
+.Free-Delivery-Icon{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Free-Delivery-Icon icon*/
+.Free-Delivery-Icon .iconn {
+  font-size: 30px;
+  color: black
+
+}
+
+/* Free-data */
+.Free-data{
+  width: 100%;
+}
+/* .Free-data h2 */
+.Free-data h2{
+  font-size: 15px;
+  width: 100%;
+}
+/* .Free-data h2 */
+.Free-data p{
+  font-size: 12px;
+  width: 100%;
+  color: rgb(152, 149, 149);
+}
+/*=============== producrs =============== */z
+
+.btn1{
+  position: relative;
+  overflow: hidden;
+  transition: all .7s ease ;
+  border: none !important;
+
+}
+.btn1:hover{
+  background-color:  green !important;
+  outline: none !important;
+}
+.btn1:hover .download{
+  background-color:  green !important;
+  top: 0;
+  transition: all .7s ease ;
+
+}
+
+.download{
+  position: absolute;
+  right: 50%;
+  font-size: 30px;
+  top: -50px;
+  transform: translateX(50%);
+  opacity: 50%;
+  
+}
+
+/* ///////////////// */
+.btn2{
+  position: relative;
+  overflow: hidden;
+  transition: all .7s ease ;
+  border: none !important;
+
+  
+}
+.btn2:hover{
+  background-color:  rgb(53, 2, 2) !important;
+  outline: none !important;
+
+}
+.btn2:hover .removee{
+  background-color:  rgb(27, 1, 1) !important;
+  top: 0;
+  transition: all .7s ease ;
+
+}
+
+.removee{
+  position: absolute;
+  right: 50%;
+  font-size: 30px;
+  top: -50px;
+  transform: translateX(50%);
+  opacity: 50%;
+  
+}
+
+/* =========================.New-Collection=========== */
+.New-Collection{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .New-ls */
+.New-ls{
+  width: 100% !important;
+}
+
+
+
+
+/* .New-rs */
+.New-rs{
+  width: 100% !important ;
+}
+
+/* .New-ls-data,
+.New-rs-data .p4*/
+.New-ls-data,
+.New-rs-data .p4 {
+  font-size: 15px !important;
+  font-weight: 500;
+}
+
+/* New-ls-data h4 */
+.New-Collection h4 {
+  font-size: 20px !important;
+  font-weight: 600;
+  color: #292b2c;
+}
+
+
+/* ==============OwlCoursel=============== */
+.Owl-container{
+  border: solid 1px gray;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: 50% !important;
+}
+/* =================OwlCoursel2=============== */
+
+
+/* cont1 */
+
+.cont1{
+  display:none !important;
+  
+}
+/* cont3 */
+
+.cont3{
+  display: block !important; 
+  
+
+}
+/* cont2 */
+
+.cont2{
+  display:none  !important;
+}
+
+
+/* =======================Footer============== */
+/*========= Footer-data====== */
+.Footer-data{
+  margin: auto;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap:30px ;
+}
+
+/* Footer-data-1 */
+.Footer-data-1{
+  width:100%  !important;
+  gap: 10px ;
+  text-align: start !important;
+}
+/* social-media */
+.social-media{
+  display: flex;
+  justify-content: start !important;
+  align-items: center;
+  gap: 10px ;
+  width: 100%;
+}
+
+
+/* Footer-data-2 */
+.Footer-data-2{
+  width:100% !important;
+  gap: 10px ;
+  text-align: start !important;
+
+
+}
+/* Footer-data-3 */
+.Footer-data-3{
+  width:100% !important;
+  gap: 10px ;
+  text-align: start !important;
+
+
+}
+/* Footer-data-4 */
+.Footer-data-4{
+  width:100% !important;
+  gap: 10px ;
+  text-align: start !important;
+
+
+}
+
+}

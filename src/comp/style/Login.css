@@ -1,0 +1,94 @@
+/* login */
+.Log-In {
+  border: solid;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #6b7b788a;
+  z-index: 10;
+  border: none;
+}
+/* inputs */
+.Inputs {
+  border: solid;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  padding: 30px 0px;
+  border: none;
+  background-color: white;
+}
+/* close */
+.close{
+    position: absolute;
+    right: 20px ;
+    top: -3px;
+    z-index: 20;
+    font-size: 22px;
+    cursor: pointer;
+    
+}
+/* inputsp */
+.inputsP{
+    color: #687188;
+    width: 60%;
+    margin: auto;
+    padding: 0px 7px ;
+}
+
+/* input Email */
+
+.Email {
+  width: 50%;
+  padding: 12px 20px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  outline: none;
+}
+
+/* button "subscrip" */
+.Login-button{
+    padding: 10px 15px;
+    border: 1px solid transparent;
+    background-color: #333333;
+    border-radius: 20px;
+    color: white;
+    width: 30%;
+    transition: all .7s ease;
+    font-weight: 500;
+}
+.Login-button:hover{
+    padding: 10px 15px;
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 20px;
+    color: #333333;
+    width: 30%;
+}
+/* check box */
+.checkbox{
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+}
+
+.checkbox p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+    margin-left: 7px;
+    color: #687188;    
+}
+
+/*remove: " style add to form" */
+.remove {
+  display: none;
+}

@@ -1,0 +1,170 @@
+.Footer{
+    width: 100%;
+    height: 100%;
+    background-color: #202325;
+    color: white;
+    padding: 25px 0px;
+}
+
+/* Footer-data */
+.Footer-data{
+    width: 90%;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+/* Footer-data-1 */
+.Footer-data-1{
+    width:calc(90%/4);
+    text-align:start;
+    gap: 10px ;
+
+}
+
+
+/* Footer-data-1 p*/
+
+.Footer-data-1 p{
+    width: 100%;
+    font-size: 14px ;
+    font-weight: 600;
+}
+
+/* social-media */
+.social-media{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px ;
+    width: 100%;
+}
+
+.social-media div{
+    width: 30px ;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:18px ;
+
+}
+/* social1 */
+.social1{
+    background-color: #3B5998;
+    color: white;
+}
+/* social2 */
+.social2{
+    background-color: #00ACEE;
+    color: white;
+}
+/* social3 */
+.social3{
+    background-color: #1F1F1F;
+    color: white;
+}
+/* social4 */
+.social4{
+    background-color: #DD4B39;
+    color: white;
+}
+/* social5 */
+.social5{
+    background-color: #C4302B;
+    color: white;
+}
+
+
+/* Footer-data-2 */
+.Footer-data-2{
+    width:calc(90%/4);
+    gap: 10px ;
+    text-align: start;
+}
+
+/* Footer-data-3 */
+.Footer-data-3{
+    width:calc(90%/4);
+    gap: 10px ;
+    text-align: start;
+}
+
+/* Footer-data-4 */
+.Footer-data-4{
+    width:calc(90%/4);
+    gap: 10px ;
+    text-align: start;
+}
+
+/* input-data */
+.input-data{
+    position: relative;
+    border-radius: 18px;
+}
+/* Footer-data-4 input */
+.Footer-data-4 input{
+    width: 100%;
+    border-radius: 25px;
+    padding: 13px;
+    border: none;
+    outline: none;
+    font-size: 18px ;
+    font-weight: 400;
+}
+
+.input-icon{
+    width: 30px ;
+    height: 30px ;
+    border-radius: 50%;
+    background-color: #FF324D;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 500;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    z-index: 3;
+    transform: translate(0,-50%);
+    cursor: pointer;
+
+    
+}
+
+
+
+
+
+
+/* .Footer-data-1,.Footer-data-2,.Footer-data-3,.Footer-data-4 */
+
+.Footer-data-1 h4,.Footer-data-2 h4,.Footer-data-3 h4,.Footer-data-4 h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+/* copyRight */
+.copyRight{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+/* copyRight h6 */
+.copyRight h6{
+    font-size: 18px;
+}
+
+/* payment */
+.payment img{
+    margin: 3px ;
+}
+

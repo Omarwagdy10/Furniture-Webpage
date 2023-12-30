@@ -1,0 +1,51 @@
+.container-fluid{
+    position: relative;
+    /* padding: 40px 0px; */
+    text-align: center;
+}
+
+
+
+.Owl-container2 .img{
+    overflow: hidden;
+    
+}
+.Owl-container2 .img img{
+    transition: all .7s ease;
+    transform: scale(1.04);
+}
+.Owl-container2 .img img:hover{
+    transform: scale(1);
+    opacity:80%;
+
+}
+
+
+.insta{
+    width: 350px ;
+    height: 80px;
+    background-color: rgba(255, 255, 255, 0.833);
+    border-radius: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/* cont2 */
+
+.cont2{
+    display:none ;
+}
+/* cont3 */
+
+.cont3{
+    display:none ;
+}

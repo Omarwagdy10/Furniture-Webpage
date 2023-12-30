@@ -1,0 +1,84 @@
+body{
+  background-color: white;
+}
+.Navbar2{
+  margin:15px 0px !important;
+  
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-between !important;
+  align-items: center;
+
+}
+
+.NAvbar2-center {
+  width: 80%;
+}
+
+/* /////////////////////////////////////////// */
+/* ======Navbar2======== */
+/* .Navbar2{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 70px;
+
+} */
+
+/* ===========Navbar2-ls========= */
+/* 
+.Navbar2-ls{
+    width:20% ;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+
+} */
+/* Navbar2-ls img */
+
+.Navbar2-ls img{
+    width: 50%;
+
+}
+
+.NAvbar2-center {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 7px;
+}
+
+/* ============Navbar2-center========= */
+.Navbar2-center {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Navbar2-data */
+
+.Navbar2-data {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.Navbar2-data:hover {
+  color: #fe324d;
+}
+
+/* Navbar2-data p */
+
+.Navbar2-data p {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 9px;
+}
