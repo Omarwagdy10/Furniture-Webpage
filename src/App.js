@@ -3,7 +3,7 @@ import './App.css';
 import Navbarr from './comp/Navbar';
 import Products from './comp/Products';
 import Cart from './comp/Cart';
-import Navbar2 from './comp/Navbar2';
+// import Navbar2 from './comp/Navbar2';
 import Carousele from './comp/Carousel';
 import NewCollection from './comp/NewCollection';
 import WhatWeDo from './comp/WhatWeDo';
@@ -22,7 +22,6 @@ function App() {
 
       <Navbarr></Navbarr>
 
-      <Navbar2></Navbar2>
       <Carousele></Carousele>
       <WhatWeDo></WhatWeDo>
       <LoginPage></LoginPage>

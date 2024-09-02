@@ -8,6 +8,18 @@ import img3 from "./../img/courselimg2/furniture_insta3.jpg";
 import img5 from "./../img/courselimg2/furniture_insta4.jpg";
 import img6 from "./../img/courselimg2/furniture_insta6.jpg";
 
+
+
+
+
+
+
+
+
+
+
+
+
 function OwlCoursel2() {
   return (
     <div>
